@@ -11,7 +11,7 @@ wits: 2
 health: 5
 spirit: 5
 supply: 5
-Bonds_Progress: 6
+Bonds_Progress: 4
 Bonds_XPEarned: 2
 FailureTrack_Progress: 1
 FailureTrack_XPEarned: 0
@@ -65,7 +65,7 @@ assets:
 
 # Vows
 
-![[Escape the Ironlands' curse]]
+![[Échapper à l'influence de l'Ile]]
 
 ![[Ramener Ishana à Clair-Ruisseau]]
 

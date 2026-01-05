@@ -1,7 +1,7 @@
 ---
 name: Ramener Ishana à Clair-Ruisseau
 rank: dangerous
-progress: 0
+progress: 12
 tags:
   - incomplete
 track-type: Vow
