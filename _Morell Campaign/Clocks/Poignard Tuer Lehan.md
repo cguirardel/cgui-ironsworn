@@ -1,7 +1,7 @@
 ---
 name: "Poignard : Tuer Lehan"
 segments: 10
-progress: 2
+progress: 3
 default-odds: no roll
 tags:
   - incomplete

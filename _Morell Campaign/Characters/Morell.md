@@ -8,12 +8,12 @@ heart: 3
 iron: 1
 shadow: 2
 wits: 2
-health: 5
+health: 3
 spirit: 5
 supply: 5
 Bonds_Progress: 4
 Bonds_XPEarned: 2
-FailureTrack_Progress: 1
+FailureTrack_Progress: 3
 FailureTrack_XPEarned: 0
 iron-vault-kind: character
 cursed: true
