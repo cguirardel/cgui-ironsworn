@@ -39,8 +39,10 @@ assets:
       - false
     controls: {}
     options: {}
+pronouns: He/Him
+player: Plop(Bob) and CGui
 ---
-
+[[Intro|Création Perso]] 
 
 ```iron-vault-character-info
 ```
@@ -56,6 +58,7 @@ assets:
 
 ```iron-vault-character-impacts
 ```
+# Assets
 
 ```iron-vault-character-assets
 ```

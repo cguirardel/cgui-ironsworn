@@ -1,7 +1,7 @@
 ---
 name: Influence grimpante
 segments: 10
-progress: 4
+progress: 3
 default-odds: no roll
 tags:
   - incomplete

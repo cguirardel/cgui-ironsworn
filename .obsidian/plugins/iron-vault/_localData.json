@@ -1,3 +1,8 @@
 {
-  "campaigns": {}
+  "campaigns": {
+    "_Morell Campaign/_Morell Campaign.md": {
+      "activeCharacter": "_Morell Campaign/Characters/Morell.md",
+      "recentRolls": []
+    }
+  }
 }
