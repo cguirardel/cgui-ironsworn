@@ -3,7 +3,7 @@ aliases:
 tags:
   - Story
 ---
-[[STORYWEAVER]]
+
 Nous racontons à Ishana l'histoire d'Aven et Cael.
 
 Aven est la petite sœur de Cael, c'est lui qui s'est occupée d'elle après la mort de leurs parents. Un jour Cael disparaît.

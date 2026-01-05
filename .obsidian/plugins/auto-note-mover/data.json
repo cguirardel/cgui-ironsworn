@@ -9,28 +9,18 @@
       "pattern": ""
     },
     {
-      "folder": "_Morell Campaign/Progress/Vows",
-      "tag": "",
+      "folder": "_Morell Campaign/Lore/People",
+      "tag": "cha",
       "pattern": ""
     },
     {
-      "folder": "20 Assets",
-      "tag": "#Asset",
-      "pattern": ""
-    },
-    {
-      "folder": "30 Game sessions",
+      "folder": "_Morell Campaign/Journals",
       "tag": "#GameSession",
       "pattern": ""
     },
     {
-      "folder": "02 Places",
+      "folder": "_Morell Campaign/Lore/Places",
       "tag": "Place",
-      "pattern": ""
-    },
-    {
-      "folder": "92 Tables",
-      "tag": "#RandomTable",
       "pattern": ""
     }
   ],
