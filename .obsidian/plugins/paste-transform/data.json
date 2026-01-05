@@ -1,0 +1,43 @@
+{
+  "rules": [
+    {
+      "pattern": "^https://github.com/[^/]+/([^/]+)$",
+      "type": "replace",
+      "replacer": "[🐈‍⬛ $1]($&)",
+      "script": "",
+      "enabled": true
+    },
+    {
+      "pattern": "^https://\\w+.wikipedia.org/wiki/([^\\s]+)$",
+      "type": "replace",
+      "replacer": "[📖 $1]($&)",
+      "script": "",
+      "enabled": true
+    },
+    {
+      "pattern": "^https://github.com/([^/]+)/([^/]+)/issues/(\\d+)$",
+      "type": "script",
+      "replacer": "",
+      "script": "const url=`https://api.github.com/repos/${ctx.match[1]}/${ctx.match[2]}/issues/${ctx.match[3]}`\nconst response = await fetch(url);\nconst data = await response.json();\nconst title = data.title;\nreturn `[${ctx.match[2]}#${ctx.match[3]}: ${title}](${ctx.foundText})`;",
+      "enabled": false
+    },
+    {
+      "pattern": "^https://github.com/([^/]+)/([^/]+)/pull/(\\d+)$",
+      "type": "script",
+      "replacer": "",
+      "script": "const url=`https://api.github.com/repos/${ctx.match[1]}/${ctx.match[2]}/pulls/${ctx.match[3]}`\nconst response = await fetch(url);\nconst data = await response.json();\nconst title = data.title;\nreturn `[${ctx.match[2]}#${ctx.match[3]}: ${title}](${ctx.foundText})`;",
+      "enabled": false
+    },
+    {
+      "pattern": "^https://discord.com(.*)",
+      "type": "replace",
+      "replacer": "[discord link](discord://discord.com$1)",
+      "script": "",
+      "enabled": true
+    }
+  ],
+  "settingsFormatVersion": 2,
+  "debugMode": false,
+  "showRuleNotifications": true,
+  "scriptSecurityWarningAccepted": false
+}

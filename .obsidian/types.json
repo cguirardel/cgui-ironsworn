@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Related Characters": "multitext",
+    "Related": "multitext",
+    "Related to": "multitext",
+    "Menace ?": "number",
+    "level": "number"
+  }
+}

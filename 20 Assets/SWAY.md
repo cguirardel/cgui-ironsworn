@@ -1,0 +1,13 @@
+---
+aliases:
+tags:
+  - Asset
+  - Asset/Ritual
+---
+(X)
+When you speak a person’s name three times to the wind, roll +wits. On a strong hit, the wind whispers of this person’s need. Envision what you hear (Ask the Oracle if unsure). If you use this information or fulfill this need when you Compel them, you may reroll any dice (one time only). On a weak hit, as above, but this person’s need creates a troubling dilemma or complication; Endure Stress (1 stress).
+
+(X)
+When you perform this ritual, add +1 and take +1 momentum on a hit.
+
+( )

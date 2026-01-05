@@ -1,0 +1,98 @@
+.paste-code-transform .rule-container {
+	padding: 15px;
+	border-top: 1px solid var(--background-modifier-border);
+}
+
+.paste-code-transform .rule-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 10px;
+}
+
+.paste-code-transform .rule-container input[type="text"],
+.paste-code-transform .rule-container textarea {
+	width: 100%;
+}
+
+.paste-code-transform .pattern-container,
+.paste-code-transform .replacer-container,
+.paste-code-transform .script-container {
+	margin-bottom: 10px;
+}
+
+.paste-code-transform .pattern-container label,
+.paste-code-transform .replacer-container label,
+.paste-code-transform .script-container label {
+	display: block;
+	margin-bottom: 5px;
+}
+
+.paste-code-transform .type-dropdown-container,
+.paste-code-transform .delete-button-container {
+	display: inline-block;
+}
+
+.paste-code-transform .type-dropdown-container {
+	flex: 1;
+	margin-right: 10px;
+}
+
+.paste-code-transform .add-button-container {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.paste-code-transform .rule-number {
+	font-weight: bold;
+	margin-right: 10px;
+}
+
+.paste-code-transform .script-rule-locked-warning {
+	background-color: var(--background-secondary);
+	color: var(--text-normal);
+	padding: 8px;
+	margin-top: 5px;
+	border-radius: 4px;
+	border: 1px solid var(--background-modifier-border);
+	font-size: 0.85em;
+}
+
+.paste-code-transform .test-textarea {
+	width: 100%;
+}
+
+.test-rules-setting {
+	display: flex;
+	flex-direction: column;
+	align-items: stretch;
+}
+
+.test-rules-setting .setting-item-info {
+	margin-bottom: 5px;
+}
+
+.test-rules-setting .setting-item-control {
+	width: 100%;
+	max-width: 100%;
+}
+
+.test-rules-setting .setting-item-control textarea {
+	width: 100% !important;
+	max-width: 100% !important;
+	box-sizing: border-box;
+}
+
+.paste-code-transform .script-textarea {
+	width: 100%;
+	min-height: 100px;
+	font-family: monospace;
+}
+
+.paste-code-transform .text-input-full {
+	width: 100%;
+}
+
+.paste-code-transform .setting-no-border {
+	border-top: none;
+}
