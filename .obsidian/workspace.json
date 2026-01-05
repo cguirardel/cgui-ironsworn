@@ -11,10 +11,14 @@
             "id": "d1f96c5dfbe385bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "30 Game sessions/S1.md",
+                "bFile": "30 Game sessions/S1.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: S1  (Working Tree)"
             }
           }
         ]
@@ -223,18 +227,20 @@
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
-      "periodic-notes:Open today": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "800798c229f30750",
+  "active": "d1f96c5dfbe385bb",
   "lastOpenFiles": [
+    "30 Game sessions/S1.md",
+    "30 Game sessions/S0.md",
+    "30 Game sessions/Intro.md",
+    "10 Vows/Vaincre l'horreur du mont du corbeau.md",
     "01 Communities/Clair-Ruisseau.md",
     "01 Communities/Trois-Collines.md",
     "01 Communities/Les Jeunes de Clair-Ruisseau.md",
     "Cadre.md",
-    "30 Game sessions/Intro.md",
-    "30 Game sessions/S0.md",
     "00 Characters/Lio.md",
     "91 Tags/Character.md",
     "00 Characters/Quinn.md",
@@ -256,8 +262,6 @@
     "10 Vows/Ramener Ishana à clair ruisseau saine et sauve.md",
     "00 Characters/Morell.md",
     "03 Artifacts/Dague d'Emelyn.md",
-    "2026-01-05.md",
-    "02 Places/Mont du Corbeau.md",
     "30 Game sessions",
     "04 Historical events",
     "03 Artifacts",

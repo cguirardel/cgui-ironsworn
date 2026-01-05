@@ -14,5 +14,5 @@ Et un jour, j'ai entendu le vent me parler ( [[sway]] ). Le vent sait bien des c
 ----
 [17 septembre 68]
 Me voila à **[[Clair-Ruisseau]]** depuis 3 jours. Les habitants ont été ravis de me cacher en apprenant que je fuyais le roi [[Léhan]]. Le tyran n'est pas très apprécié en l'absence de ses chevaliers paraît-il... Ce qui est sur, c'est que je ne dois pas être reconnu par un de ses hommes : mes protecteurs le paieraient trop cher.
-Mais [[Léhan]] n'est pas le pire soucis des habitant de clair-ruisseau : on dit qu'une force mauvaise est à l'œuvre sur le [[Mont du Corbeau]], et que sa corruption se répand dans toute la région. **Sur la hachette qui pendouille à ma ceinture, je jure de monter au mont du corbeau et de détruire la source de cette corruption.**
+Mais [[Léhan]] n'est pas le pire soucis des habitant de clair-ruisseau : on dit qu'une force mauvaise est à l'œuvre sur le [[Mont du Corbeau]], et que sa corruption se répand dans toute la région. **Sur la hachette qui pendouille à ma ceinture, je jure de monter au mont du corbeau et de détruire la source de cette corruption [[Vaincre l'horreur du mont du corbeau|vow]].**
 Quelques [[Les Jeunes de Clair-Ruisseau|jeunes]] me proposent leur aide.
