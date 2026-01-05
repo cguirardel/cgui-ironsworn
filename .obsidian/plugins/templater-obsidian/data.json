@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "90 templates",
+  "templates_folder": "config/Templates",
   "templates_pairs": [
     [
       "",
@@ -24,6 +24,10 @@
     },
     {
       "folder": "01 Vows",
+      "template": ""
+    },
+    {
+      "folder": "",
       "template": ""
     }
   ],

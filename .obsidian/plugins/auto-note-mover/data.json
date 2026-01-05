@@ -9,8 +9,8 @@
       "pattern": ""
     },
     {
-      "folder": "10 Vows",
-      "tag": "#Vow",
+      "folder": "_Morell Campaign/Progress/Vows",
+      "tag": "",
       "pattern": ""
     },
     {
@@ -27,15 +27,17 @@
       "folder": "02 Places",
       "tag": "Place",
       "pattern": ""
+    },
+    {
+      "folder": "92 Tables",
+      "tag": "#RandomTable",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
   "excluded_folder": [
     {
-      "folder": "90 templates"
-    },
-    {
-      "folder": "91 Tags"
+      "folder": "config"
     }
   ]
 }

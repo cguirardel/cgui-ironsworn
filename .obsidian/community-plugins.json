@@ -2,12 +2,11 @@
   "templater-obsidian",
   "tag-wrangler",
   "auto-note-mover",
-  "obsidian-image-toolkit",
   "paste-transform",
-  "calendar",
   "obsidian-reminder-plugin",
-  "periodic-notes",
-  "solo-rpg-toolkit",
   "dataview",
-  "obsidian-git"
+  "obsidian-git",
+  "iron-vault",
+  "periodic-notes",
+  "calendar"
 ]

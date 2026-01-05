@@ -4,20 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "2d5330e561c4c70d",
+        "id": "051289b599fff8d4",
         "type": "tabs",
         "children": [
           {
-            "id": "ce6bb93307b094b4",
+            "id": "3e5a2366ba9f71a3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "iron-vault-link-view",
+              "state": {
+                "link": "https://ironvault.quest/player's-guide/getting-started/01-initial-setup.html"
+              },
+              "icon": "lucide-file",
+              "title": "Iron Vault documentation"
+            }
+          },
+          {
+            "id": "9233caf50bbd4407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Morell Campaign/Characters/Morell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Morell"
+            }
+          },
+          {
+            "id": "9d7a9318a2cb80cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Morell Campaign/Lore/People/Morell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Morell"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,16 +190,6 @@
             }
           },
           {
-            "id": "7ba023d5d87f1fcf",
-            "type": "leaf",
-            "state": {
-              "type": "MAIN_VIEW",
-              "state": {},
-              "icon": "srt-ribbon",
-              "title": "Solo RPG Toolkit"
-            }
-          },
-          {
             "id": "800798c229f30750",
             "type": "leaf",
             "state": {
@@ -177,16 +198,33 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "a2ffaf2301d9a5fa",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "7dc33c4b17e42251",
+            "id": "25cade5782c9500a",
+            "type": "leaf",
+            "state": {
+              "type": "iron-vault-sidebar-view",
+              "state": {
+                "activeTab": "oracle"
+              },
+              "icon": "iron-vault",
+              "title": "Iron Vault"
+            }
+          },
+          {
+            "id": "04078933fc372ced",
+            "type": "leaf",
+            "state": {
+              "type": "iron-vault-datasworn-content-view",
+              "state": {
+                "file": "92 Tables/Untitled.md"
+              },
+              "icon": "package-search",
+              "title": "Iron Vault Homebrew Inspector"
+            }
+          },
+          {
+            "id": "70a0a28cdce93c46",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -194,7 +232,14 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "a2ffaf2301d9a5fa",
+        "type": "tabs",
+        "children": [
           {
             "id": "8195278cbcfe2c1c",
             "type": "leaf",
@@ -205,8 +250,7 @@
               "title": "Reminders"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,50 +266,50 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "obsidian-git:Open Git source control": false,
+      "iron-vault:Show Iron Vault commands": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "ce6bb93307b094b4",
+  "active": "9233caf50bbd4407",
   "lastOpenFiles": [
-    "10 Vows/Détruire le poignard maudit.md",
-    "30 Game sessions/S0.md",
-    "30 Game sessions/S8.md",
-    "01 Communities/Trois-Collines.md",
-    "02 Places/Palais de Léhan.md",
-    "00 Characters/Ishana.md",
-    "02 Places/Mont du Corbeau.md",
-    "30 Game sessions/S7.md",
-    "30 Game sessions/S6.md",
-    "30 Game sessions/S5.md",
-    "00 Characters/L'esprit sanglier.md",
-    "30 Game sessions/S4.md",
-    "04 Historical events/Histoire du Megol.md",
-    "04 Historical events/Aven et Cael.md",
-    "00 Characters/Malik.md",
-    "30 Game sessions/S3.md",
-    "90 templates/GameSessionTemplate.md",
-    "30 Game sessions/S2.md",
-    "30 Game sessions/S1.md",
-    "90 templates/DungeonTemplate.md",
-    "20 Assets/CUTTHROAT.md",
-    "03 Artifacts/Dague d'Emelyn.md",
-    "00 Characters/Roger.md",
-    "00 Characters/Lestara.md",
-    "thane Roger.md",
-    "00 Characters/Emelyn.md",
+    "_Morell Campaign/Truths.md",
+    "_Morell Campaign/Progress/Vaincre l'horreur du mont du corbeau.md",
+    "_Morell Campaign/Progress/Ramener Ishana à Clair-Ruisseau.md",
+    "_Morell Campaign/Progress/Ramener Ishana à clair ruisseau saine et sauve.md",
+    "_Morell Campaign/Progress/Ramener Ishana à clair ruisseau saine et sauve 1.md",
+    "_Morell Campaign/Progress/Échapper à l'influence de l'Île de fer avant de devenir un Brisé.md",
+    "_Morell Campaign/Progress/Détruire la dague.md",
+    "_Morell Campaign/Progress/Détruire le poignard maudit.md",
+    "_Morell Campaign/Progress/Amener Uthain devant Balathu.md",
+    "config/Templates/VowTemplate.md",
+    "_Morell Campaign/Progress/Vows/Amener Uthain dans le domaine de Balathu pour qu'il y soit finalement jugé.md",
     "Untitled",
+    "_Morell Campaign/Characters/Morell.md",
+    "_Morell Campaign/Lore/People/Morell.md",
+    "_Morell Campaign/_Morell Campaign/Progress/Vows/Escape the Ironlands' curse.md",
+    "_Morell Campaign/_Morell Campaign/Progress/Vows",
+    "_Morell Campaign/_Morell Campaign/Progress",
+    "_Morell Campaign/_Morell Campaign",
+    "_Morell Campaign/Lore/People/Léhan.md",
+    "config",
+    "_Morell Campaign/Progress/Fights",
+    "_Morell Campaign/Progress/Journeys",
+    "Untitled 1",
+    "_Morell Campaign/Progress/Dungeons",
+    "_Morell Campaign/Communities/Clair-Ruisseau.md",
+    "_Morell Campaign/Lore/People/AntagonistTemplate.md",
+    "_Morell Campaign/_Morell Campaign.md",
+    "_Morell Campaign/Lore/People",
+    "_Morell Campaign/Journals/Session 0.md",
+    "92 Tables/Untitled.md",
+    "90 templates/TableTemplate.md",
+    "_Morell Campaign/Journal/S0.md",
+    "_Morell Campaign/Journal/S8.md",
+    "_Morell Campaign/Communities/Trois-Collines.md",
+    "_Morell Campaign/Lore/Places/Palais de Léhan.md",
+    "_Morell Campaign/Lore/People/Ishana.md",
     "Untitled.canvas",
-    "91 Tags",
-    "30 Game sessions",
-    "04 Historical events",
-    "03 Artifacts",
-    "02 Places",
-    "01 Communities",
-    "20 Assets",
-    "10 Vows",
-    "1_/Untitled 1",
     "MyCanvas.canvas"
   ]
 }
