@@ -23,14 +23,14 @@
             "id": "141adab8353311ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "_Morell Campaign/Journals/S8.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/paste-transform/data.json",
+                "bFile": ".obsidian/plugins/paste-transform/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "S8"
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
             }
           }
         ],
@@ -181,7 +181,7 @@
             "state": {
               "type": "iron-vault-datasworn-content-view",
               "state": {
-                "file": "_Morell Campaign/Journals/S8.md"
+                "file": "_Morell Campaign/Characters/Morell.md"
               },
               "icon": "package-search",
               "title": "Iron Vault Homebrew Inspector"
@@ -258,20 +258,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "800798c229f30750",
+  "active": "141adab8353311ee",
   "lastOpenFiles": [
-    "_Morell Campaign/Clocks/Influence grimpante.md",
     "_Morell Campaign/Characters/Morell.md",
-    "_Morell Campaign/Journals/S0.md",
+    "_Morell Campaign/Progress/Détruire la dague.md",
+    "_Morell Campaign/Progress/Échapper à l'influence de l'Ile.md",
+    "_Morell Campaign/Progress/Vaincre l'horreur du mont du corbeau.md",
+    "_Morell Campaign/Progress/Ramener Ishana à Clair-Ruisseau.md",
+    "_Morell Campaign/Clocks/Influence grimpante.md",
+    "_Morell Campaign/Clocks/Poignard Tuer Lehan.md",
     "_Morell Campaign/Journals/S8.md",
+    "_Morell Campaign/Journals/S0.md",
     "_Morell Campaign/Truths.md",
     "config/Templates/TableTemplate.md",
     "config/Templates/VowTemplate.md",
     "_Morell Campaign/_Morell Campaign.md",
-    "_Morell Campaign/Progress/Détruire la dague.md",
-    "_Morell Campaign/Clocks/Poignard Tuer Lehan.md",
-    "_Morell Campaign/Progress/Vaincre l'horreur du mont du corbeau.md",
-    "_Morell Campaign/Progress/Échapper à l'influence de l'Ile.md",
     "_Morell Campaign/Journals/Intro.md",
     "config/Templates/AntagonistTemplate.md",
     "config/Templates/CharacterTemplate.md",
@@ -285,7 +286,6 @@
     "_Morell Campaign/Journals/S5.md",
     "_Morell Campaign/Journals/S4.md",
     "_Morell Campaign/Journals/S3.md",
-    "_Morell Campaign/Journals/S2.md",
     "Untitled.canvas",
     "Untitled",
     "_Morell Campaign/_Morell Campaign/Progress/Vows",

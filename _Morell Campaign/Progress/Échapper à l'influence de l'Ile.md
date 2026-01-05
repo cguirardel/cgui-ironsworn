@@ -16,10 +16,7 @@ iron-vault-kind: progress
 ### Milestones
 - J'ai vaincu (avec l'aide d'Ishana) l'horreur du Mont du Corbeau. La magie de l'île de Fer est puissante, mais elle n'est pas invincible
 
-### Menace : Mon esprit se transforme...
-(X)(X)(X)( )( )( )( )( )( )( )
-- I have developed magical powers
-
-
+### Menace
+- Le vent me chuchote à l'oreille
 
 ![[Influence grimpante]]
