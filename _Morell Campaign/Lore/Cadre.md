@@ -1,8 +1,8 @@
 ---
 aliases:
   - "#Truths"
-  - "#character/horror"
-  - "#character/broken"
+  - "#Character/Horror"
+  - "#character/Broken"
 tags:
   - Truths
 ---

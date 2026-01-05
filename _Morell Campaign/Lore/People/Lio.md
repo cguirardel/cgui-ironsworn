@@ -2,6 +2,6 @@
 aliases:
 tags:
   - Character
-  - Clair-ruisseau/jeune
+  - Clair-ruisseau/Jeune
 ---
 jeune de clair ruisseau
