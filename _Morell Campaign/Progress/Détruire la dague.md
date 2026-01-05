@@ -17,8 +17,6 @@ iron-vault-kind: progress
 [[Ishana]]
 [[Dague d'Emelyn]]
 
-### Menace [[Dague d'Emelyn|Le poignard]] | Tuer [[Léhan]]
-(X)(X)( )( )( )( )( )( )( )( )
-- Ishana est arrivée à 3 collines
-- Ishana s'est liée d'amitié avec une cuisinière du palais
-- 
+
+
+![[Poignard Tuer Lehan]]

@@ -19,3 +19,7 @@ iron-vault-kind: progress
 ### Menace : Mon esprit se transforme...
 (X)(X)(X)( )( )( )( )( )( )( )
 - I have developed magical powers
+
+
+
+![[Influence grimpante]]
