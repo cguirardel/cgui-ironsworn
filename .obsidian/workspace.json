@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3fcf611587094ae6",
+        "id": "2bd49ff2d8dda2a0",
         "type": "tabs",
         "children": [
           {
-            "id": "2f52e7feeb497998",
+            "id": "6c09185366f523db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "30 Game sessions/Intro.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Intro"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Clair-ruisseau/jeune",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,7 +202,8 @@
               "title": "Reminders"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,11 +223,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2f52e7feeb497998",
+  "active": "6c09185366f523db",
   "lastOpenFiles": [
+    "30 Game sessions/S0.md",
+    "01 Communities/Clair-Ruisseau.md",
+    "30 Game sessions/Intro.md",
+    "00 Characters/Lio.md",
+    "91 Tags/Les Jeunes de Clair-Ruisseau.md",
+    "91 Tags/Character.md",
+    "00 Characters/Quinn.md",
+    "00 Characters/Parcell.md",
+    "00 Characters/Ishana.md",
+    "10 Vows/Échapper à l'influence de l'Île de fer avant de devenir un Brisé.md",
+    "Cadre.md",
+    "00 Characters/Uthain.md",
+    "00 Characters/Léhan.md",
+    "00 Characters/Balathu.md",
     "91 Tags/Asset.md",
     "91 Tags/Vow.md",
-    "91 Tags/Character.md",
     "10 Vows/Amener Uthain dans le domaine de Balathu pour qu'il y soit finalement jugé.md",
     "00 Characters/Character.md",
     "00 Characters/Keer.md",
@@ -236,19 +254,6 @@
     "2026-01-05.md",
     "02 Places/Mont du Corbeau.md",
     "02 Places/Palais de Léhan.md",
-    "01 Communities/Trois-Collines.md",
-    "01 Communities/Clair-Ruisseau.md",
-    "00 Characters/Uthain.md",
-    "00 Characters/Parcell.md",
-    "00 Characters/Masias.md",
-    "00 Characters/Lestara.md",
-    "00 Characters/Léhan.md",
-    "00 Characters/Ishana.md",
-    "00 Characters/Balathu.md",
-    "10 Vows/Échapper à l'influence de l'Île de fer avant de devenir un Brisé.md",
-    "10 Vows/Détruire le poignard maudit.md",
-    "90 templates/AntagonistTemplate.md",
-    "90 templates/CharacterTemplate.md",
     "30 Game sessions",
     "04 Historical events",
     "03 Artifacts",

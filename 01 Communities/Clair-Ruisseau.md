@@ -1,5 +1,6 @@
 ---
 aliases:
+  - "#Clair-ruisseau"
 tags:
 ---
 
