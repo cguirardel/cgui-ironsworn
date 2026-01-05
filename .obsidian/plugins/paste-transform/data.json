@@ -6,13 +6,6 @@
       "replacer": "[discord link](discord://discord.com$1)",
       "script": "",
       "enabled": true
-    },
-    {
-      "pattern": "()Ishana()",
-      "type": "replace",
-      "replacer": "[[Ishana]]",
-      "script": "",
-      "enabled": true
     }
   ],
   "settingsFormatVersion": 2,
