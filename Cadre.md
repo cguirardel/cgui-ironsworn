@@ -1,9 +1,10 @@
 ---
 aliases:
-  - truths
+  - "#Truths"
   - "#character/horror"
   - "#character/broken"
 tags:
+  - Truths
 ---
 # Le cadre (tout ceci est sujet à discussion bien sur) :
 

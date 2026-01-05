@@ -1,6 +1,7 @@
 ---
 aliases:
 tags:
+  - GameEvent
 ---
 
 _**Introduction**_ [septembre 68]
