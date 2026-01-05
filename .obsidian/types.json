@@ -7,6 +7,8 @@
     "Related": "multitext",
     "Related to": "multitext",
     "Menace ?": "number",
-    "level": "number"
+    "level": "number",
+    "IRL date": "date",
+    "Storyline date": "date"
   }
 }

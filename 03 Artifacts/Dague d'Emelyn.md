@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Poignard Maudit
 tags:
   - Artefact
 ---

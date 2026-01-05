@@ -1,5 +1,6 @@
 ---
 aliases:
+  - "#Story"
 tags:
   - Asset
   - Asset/Path

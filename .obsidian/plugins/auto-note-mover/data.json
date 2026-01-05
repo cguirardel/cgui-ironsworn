@@ -17,6 +17,16 @@
       "folder": "20 Assets",
       "tag": "#Asset",
       "pattern": ""
+    },
+    {
+      "folder": "30 Game sessions",
+      "tag": "#GameSession",
+      "pattern": ""
+    },
+    {
+      "folder": "02 Places",
+      "tag": "Place",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,

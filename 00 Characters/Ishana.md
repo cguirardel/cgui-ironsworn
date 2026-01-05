@@ -4,6 +4,7 @@ tags:
   - Character
   - Clair-ruisseau/jeune
 ---
-Amie de [[Parcell]] et Lio
-Amie de feu Quinn
-Porte le poignard
+Amie de [[Parcell]] et [[Lio]]
+Amie de feu [[Quinn]]
+Porte le [[Dague d'Emelyn|Poignqrd maudit]]
+Fille du [[Roger|Thane Roger]]

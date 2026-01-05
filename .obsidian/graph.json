@@ -36,7 +36,7 @@
       }
     },
     {
-      "query": "tag:#GameEvent  ",
+      "query": "tag:#GameSession",
       "color": {
         "a": 1,
         "rgb": 5431473
@@ -57,9 +57,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.497395833333333,
-  "repelStrength": 16.8229166666667,
+  "repelStrength": 14.4270833333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3181332956850659,
+  "scale": 0.48043566308678654,
   "close": false
 }

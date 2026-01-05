@@ -1,7 +1,7 @@
 ---
 aliases:
 tags:
-  - GameEvent
+  - GameSession
 ---
 
 _**Introduction**_ [septembre 68]
