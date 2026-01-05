@@ -32,5 +32,21 @@
       ],
       "key": "T"
     }
+  ],
+  "iron-vault:make-a-move": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ],
+  "iron-vault:ask-the-oracle": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
+    }
   ]
 }

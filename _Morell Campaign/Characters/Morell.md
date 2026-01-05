@@ -2,7 +2,7 @@
 name: Morell
 xp_spent: 6
 xp_added: 6
-momentum: 5
+momentum: 7
 edge: 1
 heart: 3
 iron: 1
