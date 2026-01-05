@@ -4,13 +4,8 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "00 Characters",
-      "tag": "#Character",
-      "pattern": ""
-    },
-    {
       "folder": "_Morell Campaign/Lore/People",
-      "tag": "cha",
+      "tag": "#Character",
       "pattern": ""
     },
     {
@@ -20,7 +15,7 @@
     },
     {
       "folder": "_Morell Campaign/Lore/Places",
-      "tag": "Place",
+      "tag": "#Place",
       "pattern": ""
     }
   ],

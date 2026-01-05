@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Morell Campaign/Characters/Morell.md",
+                "file": "_Morell Campaign/Truths.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Morell"
+              "title": "Truths"
             }
           }
         ],
@@ -257,8 +257,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1c2f5c82e6442c34",
+  "active": "94153043134d6974",
   "lastOpenFiles": [
+    "config/Templates/VowTemplate.md",
+    "_Morell Campaign/Truths.md",
+    "_Morell Campaign/_Morell Campaign.md",
+    "_Morell Campaign/Characters/Morell.md",
     "_Morell Campaign/Progress/Détruire la dague.md",
     "_Morell Campaign/Clocks/Poignard Tuer Lehan.md",
     "_Morell Campaign/Progress/Vaincre l'horreur du mont du corbeau.md",
@@ -281,10 +285,6 @@
     "_Morell Campaign/Journals/S2.md",
     "_Morell Campaign/Journals/S1.md",
     "_Morell Campaign/Journals/S0.md",
-    "_Morell Campaign/Lore/Historical events/Histoire du Megol.md",
-    "_Morell Campaign/Lore/Historical events/Aven et Cael.md",
-    "_Morell Campaign/Characters/Morell.md",
-    "_Morell Campaign/Lore/People/Morell.md",
     "Untitled.canvas",
     "Untitled",
     "_Morell Campaign/_Morell Campaign/Progress/Vows",

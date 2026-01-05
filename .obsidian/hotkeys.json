@@ -1,5 +1,22 @@
 {
-  "iron-vault:progress-create": [
+  "iron-vault:clock-advance": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "iron-vault:clock-create": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "iron-vault:progress-advance": [
     {
       "modifiers": [
         "Alt"
@@ -7,12 +24,13 @@
       "key": "T"
     }
   ],
-  "iron-vault:clock-create": [
+  "iron-vault:progress-create": [
     {
       "modifiers": [
-        "Alt"
+        "Alt",
+        "Shift"
       ],
-      "key": "C"
+      "key": "T"
     }
   ]
 }

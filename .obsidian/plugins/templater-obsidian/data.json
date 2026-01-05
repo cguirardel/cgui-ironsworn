@@ -19,12 +19,12 @@
       "template": "90 templates/MyTemplate.md"
     },
     {
-      "folder": "00 Characters",
-      "template": "90 templates/CharacterTemplate.md"
+      "folder": "_Morell Campaign/Lore/People",
+      "template": "config/Templates/CharacterTemplate.md"
     },
     {
-      "folder": "01 Vows",
-      "template": ""
+      "folder": "_Morell Campaign/Journals",
+      "template": "config/Templates/GameSessionTemplate.md"
     },
     {
       "folder": "",
