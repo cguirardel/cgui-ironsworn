@@ -8,31 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b38a0fb912c36ca5",
+            "id": "9381063c1b27284a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Morell Campaign/Journals/S9.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "S9"
-            }
-          },
-          {
-            "id": "a64818ec34507935",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Morell Campaign/Progress/Détruire la dague.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Détruire la dague"
+              "title": "New tab"
             }
           }
         ]
@@ -109,13 +91,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Morell Campaign/Journals/S9.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of S9"
+              "title": "Outline"
             }
           },
           {
@@ -124,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Morell Campaign/Journals/S9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for S9"
+              "title": "Backlinks"
             }
           },
           {
@@ -143,12 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Morell Campaign/Journals/S9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from S9"
+              "title": "Outgoing links"
             }
           },
           {
@@ -206,7 +185,7 @@
             "state": {
               "type": "iron-vault-datasworn-content-view",
               "state": {
-                "file": "_Morell Campaign/Journals/S9.md"
+                "file": "Pasted image 20260105213007.png"
               },
               "icon": "package-search",
               "title": "Iron Vault Homebrew Inspector"
@@ -264,18 +243,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "800798c229f30750",
+  "active": "9381063c1b27284a",
   "lastOpenFiles": [
-    "_Morell Campaign/Progress/Détruire la dague.md",
-    "_Morell Campaign/Journals/S9.md",
-    "_Morell Campaign/Lore/People/Gethin.md",
-    "Pasted image 20260105230620.png",
-    "_Morell Campaign/Lore/People/Ishana.md",
-    "_Morell Campaign/Lore/People/Cortina.md",
-    "_Morell Campaign/Lore/People/Balathu.md",
     "Pasted image 20260105213007.png",
     "Pasted image 20260105212903.png",
     "Pasted image 20260105212824.png",
+    "Pasted image 20260105230620.png",
+    "_Morell Campaign/Journals/S9.md",
+    "_Morell Campaign/Progress/Détruire la dague.md",
+    "_Morell Campaign/Lore/People/Gethin.md",
+    "_Morell Campaign/Lore/People/Ishana.md",
+    "_Morell Campaign/Lore/People/Cortina.md",
+    "_Morell Campaign/Lore/People/Balathu.md",
     "0067-10-23.md",
     "_Morell Campaign/Lore/People/Masias.md",
     "_Morell Campaign/Lore/People/Quinn.md",
