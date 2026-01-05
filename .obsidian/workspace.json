@@ -174,9 +174,19 @@
               "icon": "srt-ribbon",
               "title": "Solo RPG Toolkit"
             }
+          },
+          {
+            "id": "e077952a1af4c813",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "a2ffaf2301d9a5fa",
@@ -220,7 +230,8 @@
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6c09185366f523db",
