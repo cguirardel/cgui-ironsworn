@@ -4,77 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f9d5422a0bcc7b8d",
+        "id": "3fcf611587094ae6",
         "type": "tabs",
         "children": [
           {
-            "id": "544bfb1bc939fd95",
+            "id": "2f52e7feeb497998",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "2a79123fe92cd025",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Communities/Clair-Ruisseau.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "Clair-Ruisseau"
-            }
-          },
-          {
-            "id": "4fd62329057192c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Communities/Trois-Collines.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trois-Collines"
-            }
-          },
-          {
-            "id": "d860f330b1c7789e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Places/Palais de Léhan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Palais de Léhan"
-            }
-          },
-          {
-            "id": "3ff083917312161b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Characters/Morell.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Morell"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,16 +214,26 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open this week": false,
-      "periodic-notes:Open today": false,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "3ff083917312161b",
+  "active": "2f52e7feeb497998",
   "lastOpenFiles": [
+    "91 Tags/Asset.md",
+    "91 Tags/Vow.md",
+    "91 Tags/Character.md",
+    "10 Vows/Amener Uthain dans le domaine de Balathu pour qu'il y soit finalement jugé.md",
+    "00 Characters/Character.md",
+    "00 Characters/Keer.md",
+    "README.md",
+    "Untitled",
+    "Untitled.canvas",
+    "91 Tags",
+    "10 Vows/Ramener Ishana à clair ruisseau saine et sauve.md",
+    "00 Characters/Morell.md",
     "03 Artifacts/Dague d'Emelyn.md",
     "2026-01-05.md",
-    "Untitled.canvas",
     "02 Places/Mont du Corbeau.md",
     "02 Places/Palais de Léhan.md",
     "01 Communities/Trois-Collines.md",
@@ -288,33 +241,22 @@
     "00 Characters/Uthain.md",
     "00 Characters/Parcell.md",
     "00 Characters/Masias.md",
-    "00 Characters/Morell.md",
     "00 Characters/Lestara.md",
     "00 Characters/Léhan.md",
-    "00 Characters/Keer.md",
     "00 Characters/Ishana.md",
     "00 Characters/Balathu.md",
-    "10 Vows/Ramener Ishana à clair ruisseau saine et sauve.md",
     "10 Vows/Échapper à l'influence de l'Île de fer avant de devenir un Brisé.md",
     "10 Vows/Détruire le poignard maudit.md",
-    "10 Vows/Amener Uthain dans le domaine de Balathu pour qu'il y soit finalement jugé.md",
-    "Untitled",
     "90 templates/AntagonistTemplate.md",
     "90 templates/CharacterTemplate.md",
-    "20 Assets/STORYWEAVER.md",
     "30 Game sessions",
     "04 Historical events",
     "03 Artifacts",
     "02 Places",
     "01 Communities",
-    "90 templates/VowTemplate.md",
-    "20 Assets/CUTTHROAT.md",
-    "20 Assets/SWAY.md",
-    "90 templates/AssetTemplate.md",
     "20 Assets",
     "10 Vows",
     "1_/Untitled 1",
-    "1_/Untitled",
     "MyCanvas.canvas"
   ]
 }

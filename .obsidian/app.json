@@ -1,1 +1,6 @@
-{}
+{
+  "userIgnoreFilters": [
+    "90 templates/",
+    "91 Tags/"
+  ]
+}

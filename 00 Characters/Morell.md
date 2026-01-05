@@ -23,7 +23,7 @@ Cursed
 ----
 XP 6 (0 available)
 #### Learn from my mistakes :
-( )( )( )( )( )( )( )( )( )( )
+(.)( )( )( )( )( )( )( )( )( )
 
 ----
 # Assets

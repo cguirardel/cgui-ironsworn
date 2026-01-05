@@ -23,6 +23,9 @@
   "excluded_folder": [
     {
       "folder": "90 templates"
+    },
+    {
+      "folder": "91 Tags"
     }
   ]
 }

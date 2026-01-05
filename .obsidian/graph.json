@@ -18,14 +18,14 @@
       "query": "tag:#Vow  ",
       "color": {
         "a": 1,
-        "rgb": 8183890
+        "rgb": 14725458
       }
     },
     {
       "query": "tag:#Asset  ",
       "color": {
         "a": 1,
-        "rgb": 5984992
+        "rgb": 11657298
       }
     }
   ],
@@ -34,11 +34,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7762648019592211,
+  "collapse-forces": false,
+  "centerStrength": 0.794270833333333,
+  "repelStrength": 20,
+  "linkStrength": 0.268229166666667,
+  "linkDistance": 200,
+  "scale": 0.48206174118171524,
   "close": true
 }
