@@ -4,6 +4,7 @@ rank: extreme
 progress: 2
 tags:
   - incomplete
+  - Vow
 track-type: Vow
 character: "[[_Morell Campaign/Characters/Morell.md]]"
 iron-vault-kind: progress
