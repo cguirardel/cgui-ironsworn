@@ -6,3 +6,6 @@ IRL date:
 Story date:
 ---
 
+
+----
+![[Morell]]
