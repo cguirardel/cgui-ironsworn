@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Morell Campaign/Characters/Morell.md",
+                "file": "_Morell Campaign/Lore/Places/Palais de Léhan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Morell"
+              "title": "Palais de Léhan"
             }
           }
         ]
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Morell Campaign/Characters/Morell.md",
+                "file": "_Morell Campaign/Lore/Places/Palais de Léhan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Morell"
+              "title": "Backlinks for Palais de Léhan"
             }
           },
           {
@@ -248,19 +248,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "800798c229f30750",
+  "active": "9381063c1b27284a",
   "lastOpenFiles": [
-    "_Morell Campaign/Progress/Vaincre l'horreur du mont du corbeau.md",
-    "_Morell Campaign/Progress/Ramener Ishana à Clair-Ruisseau.md",
-    "_Morell Campaign/Progress/Échapper à l'influence de l'Ile.md",
-    "_Morell Campaign/Progress/Détruire la dague.md",
-    "_Morell Campaign/Progress/Amener Uthain devant Balathu.md",
+    "Attachments",
+    "_Morell Campaign/Characters/Morell.md",
     "_Morell Campaign/Journals/S9.md",
     "_Morell Campaign/Journals/GameSessionTemplate.md",
-    "Pasted image 20260105213007.png",
+    "Attachments/Lehan's Castle.png",
     "Pasted image 20260105212903.png",
     "Pasted image 20260105212824.png",
     "Pasted image 20260105230620.png",
+    "_Morell Campaign/Progress/Détruire la dague.md",
     "_Morell Campaign/Lore/People/Gethin.md",
     "_Morell Campaign/Lore/People/Ishana.md",
     "_Morell Campaign/Lore/People/Cortina.md",
@@ -271,7 +269,9 @@
     "_Morell Campaign/Lore/People/Parcell.md",
     "_Morell Campaign/Lore/People/Lio.md",
     "_Morell Campaign/Lore/Cadre.md",
-    "_Morell Campaign/Characters/Morell.md",
+    "_Morell Campaign/Progress/Échapper à l'influence de l'Ile.md",
+    "_Morell Campaign/Progress/Vaincre l'horreur du mont du corbeau.md",
+    "_Morell Campaign/Progress/Ramener Ishana à Clair-Ruisseau.md",
     "_Morell Campaign/Clocks/Influence grimpante.md",
     "_Morell Campaign/Clocks/Poignard Tuer Lehan.md",
     "_Morell Campaign/Journals/S8.md",
@@ -281,7 +281,6 @@
     "config/Templates/VowTemplate.md",
     "_Morell Campaign/_Morell Campaign.md",
     "Untitled.canvas",
-    "Untitled",
     "_Morell Campaign/_Morell Campaign/Progress/Vows",
     "_Morell Campaign/_Morell Campaign/Progress",
     "_Morell Campaign/_Morell Campaign",

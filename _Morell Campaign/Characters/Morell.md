@@ -41,6 +41,8 @@ assets:
     options: {}
 pronouns: He/Him
 player: Plop(Bob) and CGui
+tags:
+  - "#Character/PC"
 ---
 [[Intro|Création Perso]] 
 
@@ -86,5 +88,4 @@ player: Plop(Bob) and CGui
 [[Lestara]] une amie d'enfance
 [[Masias]] comme un frère pour moi
 [[Parcell]] un [[Les Jeunes de Clair-Ruisseau|jeune de Clair-Ruisseau]], nos chemins se croisent régulièrement
-
 
